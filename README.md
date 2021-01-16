@@ -25,8 +25,12 @@ Yang Xinmin
 ## My development environment：
 
 Ubuntu 20.04 LTS
+
 rustc 1.49.0-nightly (beb5ae474 2020-10-04)
+
 rustup 1.23.1 (3df2264a9 2020-11-30)
+
 cargo 1.48.0-nightly (75615f8e6 2020-09-29)
+
 https://github.com/paritytech/ink/tree/v3.0.0-rc2/examples/erc20
 
