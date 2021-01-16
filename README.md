@@ -34,3 +34,9 @@ cargo 1.48.0-nightly (75615f8e6 2020-09-29)
 
 https://github.com/paritytech/ink/tree/v3.0.0-rc2/examples/erc20
 
+```
+$ rustup toolchain list
+stable-x86_64-unknown-linux-gnu
+nightly-2020-10-05-x86_64-unknown-linux-gnu (default)
+nightly-x86_64-unknown-linux-gnu
+```
